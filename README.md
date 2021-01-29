@@ -1,8 +1,14 @@
-# drawersample
+# Flutter sample
 
-A new Flutter project.
+A new Flutter project which is having below features,
 
-## Getting Started
+## Drawer
+## Bottom Navigationbar
+## Date picker
+## Time picker
+## DropdownMenuItem (Data from api)
+## Radio button 
+## Tabview (samples)
 
 This project is a starting point for a Flutter application.
 
